@@ -15,7 +15,7 @@ Each message can have one or more replies and the replies, even more replies tha
 - User that contains methods and attributes for the user
 - Wall is an object that is created for every user only once and contains a few methods there that help in other classes too.
 
-The code is redundant and can be reduced to less code, but I tried to encapulate each level of methods to an upper level of methods hiding information that way.
+The code is redundant and can be reduced to less code, but I tried to encapsulate each level of methods to an upper level of methods hiding information that way.
 That's the reason I also created getter and setter methods for each attribute in the project.
 
 In the UML you will find everything I created.
